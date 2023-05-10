@@ -1,4 +1,4 @@
-.env
+.venv
 .vscode
 extracted_images
 extracted_images_better
